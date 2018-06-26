@@ -7,6 +7,22 @@
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
+@media screen and (max-width: 1250px) {
+  .Main2 {
+    width: 100%;
+  }
+  .hidden-div {
+    display: none;
+  }
+}
+@@media screen and (max-width: 350px) {
+  .Main2 {
+    width: 100%;
+  }
+
+}
+
 .Main2 {
   display: inline-block;
   height: 430px;
@@ -124,6 +140,14 @@ h3 {
   margin-top: 80px;
   margin-left: 300px;
 }
+
+@media screen and (max-width:1250px) {
+  .bott {
+    margin-left: 0px;
+  }
+
+}
+
 
 .bott a {
   text-decoration: none;

@@ -1,0 +1,138 @@
+.Main1 {
+  display: inline-block;
+  height: 600px;
+  width: 400px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.Main2 {
+  display: inline-block;
+  height: 430px;
+  width: 375px;
+  border : solid rgba(169, 169, 169, 0.5); 1px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+    background-color: white;
+    background-clip: padding-box;
+}
+
+.MainInfo {
+  margin-left: 400px;
+  margin-top: 100px;
+
+}
+
+body {
+  font-family: Arial;
+}
+
+.or {
+  color: rgba(220, 220, 220, 0.5);
+}
+
+.colo {
+  background-color: #f0eeec;
+}
+
+p {
+  text-align: center;
+}
+
+#logol {
+  width: 200px;
+   height: auto;
+   padding-left: 90px;
+}
+
+
+.log {
+  padding-left: 120px;
+}
+
+a.visited {
+  color: white;
+}
+
+h3 {
+  text-align: center;
+}
+
+.details {
+  padding-left: 110px;
+  opacity: 0.5;
+
+}
+
+.detailsspec {
+  padding-left: 114px;
+}
+.buttonb {
+  margin-left: 120px;
+  margin-top: 10px;
+  padding-left: 55px;
+  padding-right: 65px;
+  background-color: lightblue;
+  border-radius: 10%;
+  color: white;
+  font-family: Arial;
+}
+.logg {
+  display: inline-block;
+}
+.logm {
+  padding-left: 120px
+
+}
+
+.picc {
+  padding-top: 30px;
+}
+.picl {
+  padding-left: 30px;
+}
+.bogo {
+
+  text-align: center;
+  background-color: lightblue;
+  border-radius: 10%;
+  color: white;
+  font-family: Arial;
+
+
+}
+.cage {
+    border : solid rgba(220, 220, 220, 0.5); 1px;
+    margin-top: 90px;
+    background-color: white;
+    background-clip: padding-box;
+}
+
+.mfont {
+  color: rgb(169, 169, 169);
+}
+
+.cage a {
+  text-decoration: none;
+  color: lightblue;
+}
+
+.bott {
+  margin-top: 80px;
+  margin-left: 300px;
+}
+
+.bott a {
+  text-decoration: none;
+  color: blue;
+  padding-left: 10px;
+}
+
+.foona {
+  display: inline-block;
+  padding-left: 40px;
+  color: rgb(169, 169, 169);
+}
